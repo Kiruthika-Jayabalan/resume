@@ -19,6 +19,14 @@ ul
  list-style-type: square;
 }
 
+a{
+    color: #000000;
+}
+
+a:hover{
+    color: #ffffff;
+}
+
 body{
     background-color:#39cccc;
     margin:0;
